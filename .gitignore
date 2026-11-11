@@ -1,0 +1,10 @@
+
+# Respaldos de base de datos
+backups/*.dump
+
+# Registros del ETL
+logs/*.log
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]

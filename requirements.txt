@@ -3,3 +3,5 @@ openpyxl
 psycopg2-binary
 streamlit
 rapidfuzz
+numpy
+pyarrow
